@@ -1,0 +1,64 @@
+
+html,
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.white{
+    color: white;
+}
+.blue{
+    color:rgb(0, 0, 44);
+}
+.price-color{
+    color: rgb(74, 74, 250);
+}
+.red{
+    color:rgb(168, 0, 0);
+}
+.black{
+    background-color: grey !important;
+    border-radius: 20px  !important;
+}
+
+.btn-bg{
+    background-color: blue;
+}
+
+.white-bolt-icon{
+    color:white;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+
+.capitalize{
+    text-transform: capitalize;
+}
+.font30{
+    font-size: 30px;
+}
+.font20{
+    font-size: 20px;
+}
+
+.line-spacing{
+    line-height: 1;
+}
+
+/* margins */
+ .mb-10{
+    margin-bottom: 10px;
+}
+.mt-10{
+    margin-top: 10px;
+}
+ 
+/* padding */
+.pr-40{
+    padding-right: 40px;
+}
+
+.align-center{
+    text-align: center;
+}
